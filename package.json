@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kjhall01.",
-  "name": "which",
+  "homepage": "https://kjhall01.github.io/quiz",
+  "name": "quiz",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

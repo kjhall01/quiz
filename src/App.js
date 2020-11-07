@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './bad.png';
+//import logo from './bad.png';
 import logo2 from './cc.png';
 import './App.css';
 import RangeSliderLadder from './rangeslider_ladder';
